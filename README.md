@@ -7,7 +7,7 @@ This project/repository contains the query script and ER diagram for a Supplier 
 📊 SupplierDB is a comprehensive database model designed to manage and streamline supplier information and inventory with integrated cash flow calculations. Developed using MySQL Workbench and SQL, this project provides a robust foundation for businesses to manage supplier interactions and financial operations effectively.
 
 ## LibraryDB ER-Diagram
-<img src=""/>
+<img src="https://github.com/cephascard0207/SupplierDB-SQL-STARTER-KIT/blob/main/supplierdb_ER.jpg?raw=true"/>
 
 ### Key Features
 
