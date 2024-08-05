@@ -1,6 +1,6 @@
 # SupplierDB-SQL-STARTER-KIT 📚💻
 # Version 1.0
-This project/repository contains the query script and ER diagram for a Supplier Inventory Management & CashFlow Database with inner tabular data schemas using MySQL Workbench and SQL. Created by Cephas Cardozo.
+This project/repository contains the query script and ER diagram for a Supplier Inventory Management & CashFlow Database with inner tabular data schemas using MySQL Workbench and SQL.
 
 ## Project Description
 
