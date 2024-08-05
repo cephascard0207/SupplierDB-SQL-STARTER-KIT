@@ -16,6 +16,11 @@ This project/repository contains the query script and ER diagram for a Supplier 
 - **Inner Tabular Data Schemas**: Predefined schemas for inner tables to organize data efficiently.
 - **MySQL Workbench Compatibility**: Easily import and manage the database using MySQL Workbench.
 - **Sample Data**: Example data to help you understand the structure and functionality of the database.
+- **Supplier Management**: Easily add, update, and retrieve supplier information.
+- **Inventory Control**: Maintain accurate records of inventory levels and transactions.
+- **Cash Flow Calculations**: Automatically calculate cash flow based on inventory movements and transactions.
+- **Predefined Functions**: Utilize built-in SQL functions to simplify common tasks and queries.
+- **Data Retrieval**: Efficiently query and retrieve data to support decision-making processes.
 
 ### Project Components
 
